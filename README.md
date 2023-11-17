@@ -23,9 +23,6 @@ with open("copytxt",'w') as fp1:
 ### OUTPUT:
 ![282802099-970095fd-c80d-4f39-ab5b-9797d6c36375](https://github.com/hariprasath5106/copy-file/assets/111515488/a587edcc-41a8-4d80-afc7-43008b685205)
 
-![282802099-970095fd-c80d-4f39-ab5b-9797d6c36375](https://github.com/hariprasath5106/copy-file/assets/111515488/0d834a07-cd27-4db3-b574-85991c36f2cc)
-
-![282802099-970095fd-c80d-4f39-ab5b-9797d6c36375](https://github.com/hariprasath5106/copy-file/assets/111515488/a5dbed74-227d-44d6-9e06-ba561f05623e)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
